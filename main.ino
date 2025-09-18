@@ -19,7 +19,7 @@
 // WiFi STA preferente + AP fallback
 const char* STA_SSID  = "xxxxxxxx";
 const char* STA_PASS  = "xxxxxxxxx";
-const char* AP_SSID   = "MARTALED";
+const char* AP_SSID   = "xxxxxxx";
 const char* AP_PASS   = "12345678";
 const char* MDNS_NAME = "marta";   // http://marta.local/
 
